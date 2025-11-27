@@ -1,4 +1,4 @@
 feedparser==6.0.10
 notion-client==2.2.1
-requests==2.31.0
+requests==2.32.4
 python-dotenv==1.0.1
